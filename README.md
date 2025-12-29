@@ -99,16 +99,6 @@
 
 ---
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dhiru7890&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhiru7890&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=dhiru7890&theme=tokyonight" alt="GitHub Streak" />
 </p>
